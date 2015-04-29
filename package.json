@@ -1,5 +1,5 @@
 {
-"name": "db_toilette",
+"name": "dn_toilette",
 "main": "server.js",
 "dependencies": {
 "express": "~4.0.0",
